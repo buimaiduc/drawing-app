@@ -1,0 +1,4 @@
+com/fpt/drawingapp/service/DrawServiceTest.class
+com/fpt/drawingapp/service/RectangleDrawServiceTest.class
+com/fpt/drawingapp/service/LineDrawServiceTest.class
+com/fpt/drawingapp/service/BuckerFillDrawServiceTest.class
