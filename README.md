@@ -23,6 +23,7 @@ point is that we need to design the structure of the application that can be eas
 -   Seperate out the layers of the application(service, application...) so that it can extend easily.
 
 ###4. DESIGN###
+
 Applicatiom modules:
 
 -   constant: contain all constant values which used on the whole application
@@ -47,11 +48,13 @@ checking the functionalities related drawing canvas value.
 Depending on this comparison, the test result will return true or false.
 
 ###5. RUN APPLICATION WITH JAR FILE###
+
 On the application folder, go the target folder and run the application:
 
 -     $ java -jar drawing-app-1.0-SNAPSHOT.jar
 
 ###6. BUILD AND RUN INSTRUCTIONS###
+
 Required environment variables: JAVA_HOME, MAVEN_HOME
 
 Build the application using Maven.
