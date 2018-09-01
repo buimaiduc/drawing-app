@@ -16,7 +16,7 @@ In a nutshell, the program should work as follows:
 
 ###3. SOLUTION###
 
-Since this application is just the console application which is not neccessary to to apply many any frameworks. The main
+Since this application is just the console application which is not necessary to to apply many any frameworks. The main
 point is that we need to design the structure of the application that can be easy to extend, maintain, scale out/up later.
 
 -   Every single entity will be declared seperately which can be used for mapping(ORM) later.
