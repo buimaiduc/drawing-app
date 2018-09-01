@@ -16,7 +16,7 @@ public enum  CommandTypeEnum {
 
     public static CommandTypeEnum fromValue(final String value) {
         for (final CommandTypeEnum t : values()) {
-            if (t.logicName.equals(value)) {
+            if (t.logicName.equals(value.toUpperCase())) {
                 return t;
             }
         }
