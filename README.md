@@ -69,3 +69,6 @@ Build and run the application
 -     $ mvn clean install
 -     $ cd target
 -     $ java -jar drawing-app-1.0-SNAPSHOT.jar
+
+
+*** Notes: Screen_Shot_Result_1_0_SNAPSHOT.png for the execution example
